@@ -1,27 +1,30 @@
-% Defend Richard Stallman!
-% Leah Rowe
-% 31 March 2021
+% Защитим Ричарда Столлмана!
+% Лиэ Роув (Leah Rowe)
+% 31 Марта 2021
 
-I support freedom of speech. **Translations wanted for this article. I want
-this news article to be available in as many languages as possible.
-Download the Markdown file here: [rms.markdown](rms.markdown) and then
-translate it into your language. Send the translated file to <leah@libreboot.org>**
+Я поддерживаю свободу слова. **Требуются переводы этой статьи. 
+Я хочу, чтоб эта новостная статья была доступна на как можно большем
+количестве языков. Скачайте Markdown файл здесь: [rms.markdown](rms.markdown)
+и зате переведите его на Ваш язык. Вышлите файл с переводом на <leah@libreboot.org>**
 
-2 years ago, known *Thought Criminal* Richard M Stallman was falsely accused of
-defending *rape* in an Orwellian smear campaign, orchestrated by mainstream
-media at the behest of proprietary software vendors. 36 years fighting
-for *your* digital freedom, cancelled. It was so vicious that he resigned from
-his post as president of the Free Software Foundation. The FSF did nothing to
-protect or defend him. However, *you* can defend him!
+2 года назад известный *Мыслепреступник* Ричард М. Столлман (RMS) был
+ложно обвинён в оправдании *изнасилования* в ходе оруэлловской
+клеветнической кампании, организованной ведущими медиа по повелению
+производителей проприетарного программного обеспечения (ПО). 36 лет
+борьбы за *Вашу* цифровую свободу были вычеркнуты. Кампания была столь
+язвительна, что он покинул пост президента Фонда Свободного
+Программного Обеспечения (FSF). FSF ничего не сделало для его
+защиты или отстаивания. Однако, *Вы* можете защитить его!
 
-On 21 March 2021, FSF board of directors re-instated Richard Stallman. In
-response, the media started a new smear campaign. A petition was created,
-calling for the forceful removal of RMS and the entire FSF board of directors.
-RMS has been wrongly accused of sexism, transphobia, ableism and a whole host
-of things intended to discredit him. Do not listen to any of it. Richard
-Stallman's political [notes](https://www.stallman.org/archives/) and
-[articles](https://stallman.org/#politics) paint the picture of a man who has
-staunchly campaigned *against* bigotry in all its forms!
+21 марта 2021 совет директоров FSF восстановил Ричарда Столлмана.
+В ответ медиа начали новую клеветническую кампанию. Была создана
+петиция, призывающая к принудительному удалению RMS и всего совета
+директоров FSF. RMS был ошибочно обвинён в сексизме, трансфобии,
+эйблизме и целом множестве вещей, направленных на его дискредитацию.
+Не внимайте этому. Политические [заметки](https://www.stallman.org/archives/)
+и [статьи](https://stallman.org/#politics) Ричарда Столлмана
+раскрывают его как человека, непоколебимо сражающегося *против*
+фанатизма во всех его проявлениях.
 
 **In response, we, the Free software movement, started our own petition. We
 wish for RMS to remain in his post, and for the FSF to hold their ground. We

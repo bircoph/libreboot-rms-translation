@@ -41,17 +41,21 @@
 
 **<https://rms-support-letter.github.io/>**
 
-The *opposing* petition calling for Richard's removal will not be linked here,
-because it is important not to strengthen it. Boosting the search engine
-rankings of our opposition would only help them attack RMS. Similarly, their
-smear campaigns will not be linked here directly, only condemned!
+Ссылка на *оппозиционную* петицию, призывающую к удалению Ричарда,
+здесь не будет приводится, поскольку важно не усиливать её.
+Повышение рейтингов поисковых систем для наших противников лишь
+поможет им атаковать RMS. Аналогично, на их клеветнические кампании
+здесь не будут приводиться прямые ссылки, только порицание!
 
-Instructions for how to sign your name are on that page. If you represent a
-project, please put that in brackets and state your position. For instance, if
-you are John Doe and your project is named Foobar Libre,
-write `John Doe (Foobar Libre developer)`
-or e.g. `John Doe (Foobar Libre founder and lead developer)`. If you are an
-FSF member (e.g. associate member), put that in brackets too.
+Инструкции о том, как подписать петицию на упомянутой выше странице.
+Если Вы представляете проект, укажите его в квадратных скобках, а
+также свою роль в нём. Например, если Вы Иван Петров и Ваш проект
+называется Свободный Проект, напишите  Иван Петров (разработчик
+Свободного Проекта)  или  Иван Петров (основатель и ведущий разработчик
+Свободного Проекта) . Если Вы член FSF (например, член-корреспондент),
+также укажите это. [Примечание переводчика: по возможности подпишите
+петицию на английском, например,  Ivan Petrov (Free Project developer) 
+— так будет проще понять Вашу роль и вклад.]
 
 If you are a member of a project/organisation that signed the anti-RMS list,
 it is *especially* important to state that you are from said project when

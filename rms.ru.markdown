@@ -57,22 +57,26 @@
 петицию на английском, например, `Nikita Petrov (Free Project developer)`
 — так будет проще понять кто Вы и Ваш вклад.]
 
-If you are a member of a project/organisation that signed the anti-RMS list,
-it is *especially* important to state that you are from said project when
-signing the *pro*-RMS list. You should also talk to people in your project or
-organisation, and try to persuade them to change their minds!
+Если Вы являетесь участником проекта или организации, подписавшей
+петицию против RMS, *особенно* важно указать, что Вы из упомянутого
+проекта, при подписании петиции *в поддержку* RMS. Вам также следует
+поговорить с коллегами из Вашего проекта или организации и
+попытаться изменить их отношение!
 
-In addition to signing your name, if you're in a software project, get your
-project to officially come out in support of Richard! He needs every bit of
-support we can get. We, the Free Software movement, as activists must lend him
-all of our strength!
+Помимо подписи своим именем, если Вы состоите в разрабатывающем ПО
+проекте, инициируйте выступление Вашего проекта с официальным
+заявлением в поддержку Ричарда! Ему нужна любая помощь, которую мы
+можем предоставить. Мы, движение Свободного ПО, как активисты должны
+предоставить ему любую возможную поддержку!
 
-**Don't be fooled. If a Free Software project is on the anti-RMS list, that
-just means the leadership implemented said decision. It says nothing of the
-individuals inside said organisation.**
+**Остерегайтесь обмана. Если проект СПО подписал петицию против RMS,
+это означает лишь то, что руководство проекта реализовало такое
+решение. Это ничего не говорит об отдельных людях внутри такой
+организации.**
 
-Please also *email* the FSF and tell them you support Richard! The FSF's
-contact details are here: <https://www.fsf.org/about/contact/>
+Пожалуйста, также напишите *e-mail* в FSF и скажите им поддержать
+Ричарда! Контактная информация находится здесь:
+<https://www.fsf.org/about/contact/>
 
 Our opponents wish to destroy Free Software
 ===========================================

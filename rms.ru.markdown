@@ -26,15 +26,17 @@
 раскрывают его как человека, непоколебимо сражающегося *против*
 фанатизма во всех его проявлениях.
 
-**In response, we, the Free software movement, started our own petition. We
-wish for RMS to remain in his post, and for the FSF to hold their ground. We
-call for the FSF to defend Richard Stallman's honour and his legacy. Richard
-Stallman is a human being, whose right to free speech was heavily suppressed.
-We must demonstrate our support of him to the FSF, loudly and clearly.**
+**В ответ мы, движение Свободного ПО (СПО), создали собственную петицию
+Мы желаем, чтоб RMS остался на своём посту и FSF не сдавало позиций.
+Мы призываем FSF защитить честь Ричарда Столмана и его наследие. Ричард
+Столлман — человек, чьё право на свободу слова сильно подавлено.
+Мы должны продемонстрировать свою поддержку ему и FSF, громко и
+чётко.**
 
-**If you support Free Software, believe in freedom of speech, freedom of
-community and social justice (true social justice, where a person is treated
-with dignity and not cancelled just for their beliefs), sign your name here:**
+**Если Вы поддерживаете Свободное ПО (СПО), верите в свободу слова,
+свободу сообщества и социальную справедливость (истинную социальную
+справедливость, где к человеку относятся с достоинством и не травят
+за его убеждения), подпишите:**
 
 **<https://rms-support-letter.github.io/>**
 
